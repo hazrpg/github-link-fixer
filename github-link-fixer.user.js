@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         GitHub Link Fixer - The Download Friendly fix you didn't know you needed!
 // @namespace    https://github.com/hazrpg/
-// @version      0.2
-// @updateURL    https://gist.github.com/hazrpg/0338eb8061bd009f1e01dcfe6d335857/raw/github-link-fixer.user.js
+// @version      0.3
+// @updateURL    https://raw.githubusercontent.com/hazrpg/github-link-fixer/master/github-link-fixer.user.js
 // @description  This script fixes GitHub links are more usable. When you right-click and save-as it will now download the proper raw version. If you click it will continue to work as normal. This is the fix Linus from LTT needed.
 // @author       hazrpg
 // @match        https://*.github.com/*

@@ -6,7 +6,7 @@
 // @description  This script fixes GitHub links are more usable. When you right-click and save-as it will now download the proper raw version. If you click it will continue to work as normal. This is the fix Linus from LTT needed.
 // @author       hazrpg
 // @match        https://*.github.com/*
-// @icon         https://www.google.com/s2/favicons?domain=github.com
+// @icon         https://github.githubassets.com/favicons/favicon.svg
 // @grant        none
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js
